@@ -1,5 +1,4 @@
 # Section-2
-setwd("C:/Users/Dell/OneDrive/Documents/L00151024/NI Crime Data")
 # A)
 # combining all of the crime data from each csv file into one data set
 # creating an empty dataframe to store the data after looping
