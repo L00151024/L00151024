@@ -1,5 +1,8 @@
 # Section 1
 # A)
+# Download the NiPostcodes.csv file 
+# The files are placed in the working directory by type getwd() which will result in the current working directory
+# After getting the working directory copy the NIPostcodes.csv file to the current working directory.
 # Loading the CSV file by placing in the working directory
 NIPOSTCODE = read.csv("NIPostcodes.csv", header = FALSE)
 
