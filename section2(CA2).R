@@ -1,5 +1,7 @@
 # Section-2
 # A)
+# Download the crime_data and by typing the getwd() you will find the current working directory.
+# Copy the downloaded dataset into the current working directory
 # combining all of the crime data from each csv file into one data set
 # creating an empty dataframe to store the data after looping
 final_crime_data <- data.frame()
